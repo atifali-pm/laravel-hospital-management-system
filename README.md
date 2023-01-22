@@ -27,9 +27,12 @@ $ php artisan db:seed (Test data)
  
 ![alt text](https://github.com/atifali-pm/hospital-management-system/blob/main/public/readme_images/Screenshot-2023-01-22-20-35-03.png)
 
-2. Manage Doctors
-    1. List doctors
-    2. Add and edit doctors in a department
-    3. Delete doctor
+2. Manage Human resources (Nurses, Pharmacist, Laboratorists, Receptionists and Accountants)
+    1. List human resources
+    2. Scope user_type and add or edit human resources
+    3. Delete Human resources
+
+![alt text](https://github.com/atifali-pm/hospital-management-system/blob/main/public/readme_images/Screenshot-2023-01-22-21-00-49.png)
+
  
  
