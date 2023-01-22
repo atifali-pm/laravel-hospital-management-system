@@ -17,15 +17,15 @@ $ php artisan db:seed (Test data)
    1. List departments
    2. Add and edit departments
    3. Delete departments
-      
-![](public/readme_images/Screenshot from 2023-01-22 20-32-10.png)
+
+![alt text](https://github.com/atifali-pm/hospital-management-system/blob/main/public/readme_images/Screenshot-2023-01-22-20-32-10.png)
 
 2. Manage Doctors
     1. List doctors
     2. Add and edit doctors in a department
     3. Delete doctor
  
-![alt text](https://github.com/atifali-pm/hospital-management-system/blob/main/Screenshot-2023-01-22-20-35-03.png)
+![alt text](https://github.com/atifali-pm/hospital-management-system/blob/main/public/readme_images/Screenshot-2023-01-22-20-35-03.png)
 
 2. Manage Doctors
     1. List doctors
