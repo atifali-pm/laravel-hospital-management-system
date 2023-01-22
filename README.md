@@ -25,7 +25,7 @@ $ php artisan db:seed (Test data)
     2. Add and edit doctors in a department
     3. Delete doctor
  
-![](Screenshot from 2023-01-22 20-35-03.png)
+![](https://github.com/atifali.pm/hospital-management-system/blob/main/Screenshot from 2023-01-22 20-35-03.png)
 
 2. Manage Doctors
     1. List doctors
