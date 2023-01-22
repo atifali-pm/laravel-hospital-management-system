@@ -1,5 +1,5 @@
 # Hospital management system
-Build ECommerce Website Like Amazon by Next.js
+Build hospital management system using Laravel and bootstrap
  - Source Code    :  https://github.com/atifali-pm/hospital-management-system
 
 ## Run it Locally
