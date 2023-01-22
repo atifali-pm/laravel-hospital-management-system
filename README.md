@@ -10,6 +10,7 @@ $ composer update –no-scripts
 $ cp .env.example .env and uppdate DB configurations in .env file
 $ php artisan migrate
 $ php artisan db:seed (Insert test data)
+$ php artisan serve (Finally run locally and check on: http://127.0.0.1:8000/)
 ```
 
 ## Features
