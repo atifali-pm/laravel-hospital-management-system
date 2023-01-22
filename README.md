@@ -30,9 +30,23 @@ $ php artisan db:seed (Test data)
 2. Manage Human resources (Nurses, Pharmacist, Laboratorists, Receptionists and Accountants)
     1. List human resources
     2. Scope user_type and add or edit human resources
-    3. Delete Human resources
+    3. Delete human resources
 
 ![alt text](https://github.com/atifali-pm/hospital-management-system/blob/main/public/readme_images/Screenshot-2023-01-22-21-00-49.png)
 
- 
+3. More features:
+   1. Appointments: Appointments can be managed in the application using the doctor’s and patients’ IDs. 
+   2. Registration. 
+   3. Check-in and check-out procedures for patients. 
+   4. Automation in the laboratory.
+   5. Manage Schedule
+   6. Manage Pharmacy.
+   7. Keeping track of patients’ records.
+   8. Managing Financial
+   9. Keeping track of employees.
+   10. Managing Lap
+   11. Payroll System for Employees 
+   12. Manage Prescriptions 
+   13. Consultant Doctor 
+   14. Manage Beds
  
