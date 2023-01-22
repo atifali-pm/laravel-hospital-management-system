@@ -9,7 +9,7 @@ $ cd hospital-management-system/
 $ composer update –no-scripts
 $ cp .env.example .env and uppdate DB configurations in .env file
 $ php artisan migrate
-$ php artisan db:seed (Test data)
+$ php artisan db:seed (Insert test data)
 ```
 
 ## Features
