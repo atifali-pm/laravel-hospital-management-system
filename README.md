@@ -17,13 +17,15 @@ $ php artisan db:seed (Test data)
    1. List departments
    2. Add and edit departments
    3. Delete departments
-![](/home/atif/Pictures/Screenshot from 2023-01-22 20-32-10.png)
+      
+![My Image](public/readme_images/Screenshot from 2023-01-22 20-32-10.png)
 
 2. Manage Doctors
     1. List doctors
     2. Add and edit doctors in a department
     3. Delete doctor
-![](/home/atif/Pictures/Screenshot from 2023-01-22 20-35-03.png)
+ 
+![My Image](public/readme_images/Screenshot from 2023-01-22 20-35-03.png)
 
 2. Manage Doctors
     1. List doctors
