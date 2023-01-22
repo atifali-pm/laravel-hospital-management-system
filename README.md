@@ -1,4 +1,4 @@
-# Next Amazona
+# Hospital management system
 Build ECommerce Website Like Amazon by Next.js
  - Source Code    :  https://github.com/atifali-pm/hospital-management-system
 
