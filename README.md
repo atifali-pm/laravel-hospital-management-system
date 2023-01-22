@@ -44,7 +44,7 @@ $ php artisan db:seed (Test data)
    7. Keeping track of patients’ records.
    8. Managing Financial
    9. Keeping track of employees.
-   10. Managing Lap
+   10. Managing Labs
    11. Payroll System for Employees 
    12. Manage Prescriptions 
    13. Consultant Doctor 
